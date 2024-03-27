@@ -1,1 +1,1 @@
-A collection of projects completed for AI-ML crtification from UT Austin
+A collection of projects completed for AI-ML certification from UT Austin
